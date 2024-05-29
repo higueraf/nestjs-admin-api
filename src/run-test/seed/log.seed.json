@@ -1,0 +1,27 @@
+[
+    {
+      "LogID": "e5b79379-4a18-4b4e-af1e-b6b812b9d2e0",
+      "DateTime": "2024-04-23T12:00:00.000Z",
+      "UserID": "c0db230b-68ee-4b23-88bc-0de8d78856e7",
+      "UserName": "user1",
+      "Microservice": "microservice1",
+      "EventMessage": "Event message 1",
+      "EventMethod": "Event method 1",
+      "ErrorMessage": "Error message 1",
+      "CompanyID": "d2a875e1-b170-4d33-bf9e-40cb5ab2c06d",
+      "CompanyName": "Company 1"
+    },
+    {
+      "LogID": "a05d3a6e-21f8-4991-9b71-c481027d2a2d",
+      "DateTime": "2024-04-23T12:00:00.000Z",
+      "UserID": "b8ac91a7-3dd6-45db-97cb-936c86daa3c9",
+      "UserName": "user2",
+      "Microservice": "microservice2",
+      "EventMessage": "Event message 2",
+      "EventMethod": "Event method 2",
+      "ErrorMessage": "Error message 2",
+      "CompanyID": "69f34367-c52a-498e-bf92-380d0ac917e4",
+      "CompanyName": "Company 2"
+    }
+  ]
+  

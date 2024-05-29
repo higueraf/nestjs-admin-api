@@ -1,0 +1,57 @@
+[
+  {
+    "BranchID": "3e37b196-4f3f-4b3e-9a07-1b2479a92c58",
+    "Name": "Sucursal A",
+    "CompanyID": "3e37b196-4f3f-4b3e-9a07-1b2479a92c58",
+    "CreatedBy": "a4b2f7a5-6f34-4f58-bcec-842d23d41cac",
+    "CreatedAt": "2024-04-23T08:00:00.000Z",
+    "UpdatedBy": null,
+    "UpdatedAt": null,
+    "DeletedBy": null,
+    "DeletedAt": null
+  },
+  {
+    "BranchID": "f7548a12-554b-464b-8d35-cd205d3d83c4",
+    "Name": "Sucursal B",
+    "CompanyID": "3e37b196-4f3f-4b3e-9a07-1b2479a92c58",
+    "CreatedBy": "a4b2f7a5-6f34-4f58-bcec-842d23d41cac",
+    "CreatedAt": "2024-04-23T08:00:00.000Z",
+    "UpdatedBy": null,
+    "UpdatedAt": null,
+    "DeletedBy": null,
+    "DeletedAt": null
+  },
+  {
+    "BranchID": "4db9c212-582b-4455-895f-1b21b1a77644",
+    "Name": "Sucursal C",
+    "CompanyID": "3e37b196-4f3f-4b3e-9a07-1b2479a92c58",
+    "CreatedBy": "a4b2f7a5-6f34-4f58-bcec-842d23d41cac",
+    "CreatedAt": "2024-04-23T08:00:00.000Z",
+    "UpdatedBy": null,
+    "UpdatedAt": null,
+    "DeletedBy": null,
+    "DeletedAt": null
+  },
+  {
+    "BranchID": "fc73d352-81de-45b1-a472-1c063a736478",
+    "Name": "Sucursal D",
+    "CompanyID": "3e37b196-4f3f-4b3e-9a07-1b2479a92c58",
+    "CreatedBy": "a4b2f7a5-6f34-4f58-bcec-842d23d41cac",
+    "CreatedAt": "2024-04-23T08:00:00.000Z",
+    "UpdatedBy": null,
+    "UpdatedAt": null,
+    "DeletedBy": null,
+    "DeletedAt": null
+  },
+  {
+    "BranchID": "d7a1ab58-7b2b-43c5-95e0-c9d7f5e4ffea",
+    "Name": "Sucursal E",
+    "CompanyID": "3e37b196-4f3f-4b3e-9a07-1b2479a92c58",
+    "CreatedBy": "a4b2f7a5-6f34-4f58-bcec-842d23d41cac",
+    "CreatedAt": "2024-04-23T08:00:00.000Z",
+    "UpdatedBy": null,
+    "UpdatedAt": null,
+    "DeletedBy": null,
+    "DeletedAt": null
+  }
+]

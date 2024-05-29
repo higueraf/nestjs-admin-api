@@ -1,0 +1,32 @@
+[
+    {
+        "FeatureID": "85d39e25-95b2-4b30-a4e3-0cb9ed89c5c5",
+        "Name": "canUploadBimFiles",
+        "IsActive": true,
+        "CreatedAt": "2022-02-02T00:00:00.000Z"
+    },
+    {
+        "FeatureID": "d67f2b64-914a-4331-8e33-0f3ed8568f36",
+        "Name": "canUseLibraryModels",
+        "IsActive": true,
+        "CreatedAt": "2022-02-02T00:00:00.000Z"
+    },
+    {
+        "FeatureID": "a4520cd6-554f-426d-ba79-1c92b5134da2",
+        "Name": "canUseAdvanceSearch",
+        "IsActive": true,
+        "CreatedAt": "2022-02-02T00:00:00.000Z"
+    },
+    {
+        "FeatureID": "4e1facfe-22fe-462b-9d5a-3295e8b2adc0",
+        "Name": "canUseBimSearch",
+        "IsActive": true,
+        "CreatedAt": "2022-02-02T00:00:00.000Z"
+    },
+    {
+        "FeatureID": "6f5b2c84-94d7-4d76-bd77-3f8a61f37337",
+        "Name": "canUseBimInfo",
+        "IsActive": true,
+        "CreatedAt": "2022-02-02T00:00:00.000Z"
+    }
+]

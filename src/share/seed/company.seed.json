@@ -1,0 +1,32 @@
+[
+  {
+    "CompanyID": "3e37b196-4f3f-4b3e-9a07-1b2479a92c58",
+    "Name": "Company 1",
+    "Address": "Street 1, City 1, Country 1",
+    "PhoneNumber": "1234567890",
+    "CountryID": "14ee6917-bb9b-4037-8290-47a5045c8877",
+    "FolderName": "folder1",
+    "CreatedBy": "511f5541-a566-4af3-bb7b-408da778bd42",
+    "CreatedAt": "2022-01-01T00:00:00.000Z",
+    "UpdatedBy": null,
+    "UpdatedAt": null,
+    "DeletedBy": null,
+    "DeletedAt": null,
+    "users": []
+  },
+  {
+    "CompanyID": "3e37b196-4f3f-4b3e-9a07-1b2479a92c56",
+    "Name": "Company 2",
+    "Address": "Street 2, City 2, Country 2",
+    "PhoneNumber": "1234567890",
+    "CountryID": "14ee6917-bb9b-4037-8290-47a5045c8877",
+    "FolderName": "folder2",
+    "CreatedBy": "511f5541-a566-4af3-bb7b-408da778bd42",
+    "CreatedAt": "2022-01-01T00:00:00.000Z",
+    "UpdatedBy": null,
+    "UpdatedAt": null,
+    "DeletedBy": null,
+    "DeletedAt": null,
+    "users": []
+  }
+]

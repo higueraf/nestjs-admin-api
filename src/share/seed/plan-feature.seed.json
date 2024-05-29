@@ -1,0 +1,122 @@
+[
+    {
+        "PlanFeatureID": "b0095ebc-5a4e-4c17-8d99-568f35a84a4b",
+        "PlanID": "7c18ae65-a823-4196-b07e-2a9ac02c07cd",
+        "FeatureID": "85d39e25-95b2-4b30-a4e3-0cb9ed89c5c5",
+        "CompanyID": null
+    },
+    {
+        "PlanFeatureID": "4758ab5d-ca0a-461f-bbc1-677240d0b39d",
+        "PlanID": "7c18ae65-a823-4196-b07e-2a9ac02c07cd",
+        "FeatureID": "d67f2b64-914a-4331-8e33-0f3ed8568f36",
+        "CompanyID": null
+    },
+    {
+        "PlanFeatureID": "2c7c658e-a7d9-495d-affc-67fd9a7d9736",
+        "PlanID": "7c18ae65-a823-4196-b07e-2a9ac02c07cd",
+        "FeatureID": "a4520cd6-554f-426d-ba79-1c92b5134da2",
+        "CompanyID": null
+    },
+    {
+        "PlanFeatureID": "e2aaf5d0-b555-4714-ad19-690498d6dcdd",
+        "PlanID": "7c18ae65-a823-4196-b07e-2a9ac02c07cd",
+        "FeatureID": "4e1facfe-22fe-462b-9d5a-3295e8b2adc0",
+        "CompanyID": null
+    },
+    {
+        "PlanFeatureID": "04bb775d-6b3c-4aa6-a2f1-69629afe0918",
+        "PlanID": "7c18ae65-a823-4196-b07e-2a9ac02c07cd",
+        "FeatureID": "6f5b2c84-94d7-4d76-bd77-3f8a61f37337",
+        "CompanyID": null
+    },
+    {
+        "PlanFeatureID": "c1eac928-6c15-485e-85d8-8b94d69e33cd",
+        "PlanID": "bb1f2333-d0f1-46b6-8e91-2c61ba41ae7c",
+        "FeatureID": "85d39e25-95b2-4b30-a4e3-0cb9ed89c5c5",
+        "CompanyID": null
+    },
+    {
+        "PlanFeatureID": "9544b338-9391-4608-8a77-8fce4a9c99b9",
+        "PlanID": "bb1f2333-d0f1-46b6-8e91-2c61ba41ae7c",
+        "FeatureID": "d67f2b64-914a-4331-8e33-0f3ed8568f36",
+        "CompanyID": null
+    },
+    {
+        "PlanFeatureID": "28a10d80-05ba-4cc9-adb6-933eea58460b",
+        "PlanID": "bb1f2333-d0f1-46b6-8e91-2c61ba41ae7c",
+        "FeatureID": "a4520cd6-554f-426d-ba79-1c92b5134da2",
+        "CompanyID": null
+    },
+    {
+        "PlanFeatureID": "bb321ce9-0e93-4118-8dd7-9815efef8ac6",
+        "PlanID": "bb1f2333-d0f1-46b6-8e91-2c61ba41ae7c",
+        "FeatureID": "4e1facfe-22fe-462b-9d5a-3295e8b2adc0",
+        "CompanyID": null
+    },
+    {
+        "PlanFeatureID": "6761a113-fc91-43ed-909f-9a139636d8ef",
+        "PlanID": "bb1f2333-d0f1-46b6-8e91-2c61ba41ae7c",
+        "FeatureID": "6f5b2c84-94d7-4d76-bd77-3f8a61f37337",
+        "CompanyID": null
+    },
+    {
+        "PlanFeatureID": "a72d59b6-4be5-4cc2-a874-9e8956093d08",
+        "PlanID": "db891a13-4bb8-49ea-905a-4647e69d02e2",
+        "FeatureID": "85d39e25-95b2-4b30-a4e3-0cb9ed89c5c5",
+        "CompanyID": null
+    },
+    {
+        "PlanFeatureID": "90fb0a83-8d43-40ec-98ea-a08a6cecccf7",
+        "PlanID": "db891a13-4bb8-49ea-905a-4647e69d02e2",
+        "FeatureID": "d67f2b64-914a-4331-8e33-0f3ed8568f36",
+        "CompanyID": null
+    },
+    {
+        "PlanFeatureID": "941c2464-2b57-4b7c-bebd-a70fb1f5a58a",
+        "PlanID": "db891a13-4bb8-49ea-905a-4647e69d02e2",
+        "FeatureID": "a4520cd6-554f-426d-ba79-1c92b5134da2",
+        "CompanyID": null
+    },
+    {
+        "PlanFeatureID": "e38671a7-0771-4527-888f-b09257a8a2e1",
+        "PlanID": "db891a13-4bb8-49ea-905a-4647e69d02e2",
+        "FeatureID": "4e1facfe-22fe-462b-9d5a-3295e8b2adc0",
+        "CompanyID": null
+    },
+    {
+        "PlanFeatureID": "c6a096b6-e313-4ad2-b6b4-b36a62f91a11",
+        "PlanID": "db891a13-4bb8-49ea-905a-4647e69d02e2",
+        "FeatureID": "6f5b2c84-94d7-4d76-bd77-3f8a61f37337",
+        "CompanyID": null
+    },
+    {
+        "PlanFeatureID": "c6a096b6-e313-4ad2-b6b4-b36a62f91ac4",
+        "PlanID": "81217f83-9565-4aa7-8908-14cfaef66e52",
+        "FeatureID": "85d39e25-95b2-4b30-a4e3-0cb9ed89c5c5",
+        "CompanyID": null
+    },
+    {
+        "PlanFeatureID": "6a3b82a9-5e20-4677-a0d8-b8f80d7afba7",
+        "PlanID": "81217f83-9565-4aa7-8908-14cfaef66e52",
+        "FeatureID": "d67f2b64-914a-4331-8e33-0f3ed8568f36",
+        "CompanyID": null
+    },
+    {
+        "PlanFeatureID": "a4e3b52b-07ca-4e14-98e2-bd061e4ca2c9",
+        "PlanID": "81217f83-9565-4aa7-8908-14cfaef66e52",
+        "FeatureID": "a4520cd6-554f-426d-ba79-1c92b5134da2",
+        "CompanyID": null
+    },
+    {
+        "PlanFeatureID": "ebecc4b7-8f56-4e78-9dca-c888b77f4010",
+        "PlanID": "81217f83-9565-4aa7-8908-14cfaef66e52",
+        "FeatureID": "4e1facfe-22fe-462b-9d5a-3295e8b2adc0",
+        "CompanyID": null
+    },
+    {
+        "PlanFeatureID": "91b796cd-993a-4a3a-bed2-cd2ea2659ee8",
+        "PlanID": "81217f83-9565-4aa7-8908-14cfaef66e52",
+        "FeatureID": "6f5b2c84-94d7-4d76-bd77-3f8a61f37337",
+        "CompanyID": null
+    }
+]

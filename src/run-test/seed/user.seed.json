@@ -1,0 +1,52 @@
+[
+  {
+    "UserID": "511f5541-a566-4af3-bb7b-408da778bd42",
+    "Name": "User 1",
+    "Username": "user1",
+    "Password": "password1",
+    "Email": "user1@example.com",
+    "Address": "Address 1",
+    "PhoneNumber": "123456789",
+    "CreatedAt": "2022-01-01T00:00:00.000Z"
+  },
+  {
+    "UserID": "a4b2f7a5-6f34-4f58-bcec-842d23d41cac",
+    "Name": "User 2",
+    "Username": "user2",
+    "Password": "password2",
+    "Email": "user2@example.com",
+    "Address": "Address 2",
+    "PhoneNumber": "987654321",
+    "CreatedAt": "2022-01-01T00:00:00.000Z"
+  },
+  {
+    "UserID": "97fa7aa2-8237-4b80-975a-c9c3d0afad94",
+    "Name": "User 3",
+    "Username": "user3",
+    "Password": "password3",
+    "Email": "user3@example.com",
+    "Address": "Address 3",
+    "PhoneNumber": "456123789",
+    "CreatedAt": "2022-01-01T00:00:00.000Z"
+  },
+  {
+    "UserID": "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+    "Name": "User 4",
+    "Username": "user4",
+    "Password": "password4",
+    "Email": "user4@example.com",
+    "Address": "Address 4",
+    "PhoneNumber": "789123456",
+    "CreatedAt": "2022-01-01T00:00:00.000Z"
+  },
+  {
+    "UserID": "1b2a3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+    "Name": "User 5",
+    "Username": "user5",
+    "Password": "password5",
+    "Email": "user5@example.com",
+    "Address": "Address 5",
+    "PhoneNumber": "321654987",
+    "CreatedAt": "2022-01-01T00:00:00.000Z"
+  }
+]

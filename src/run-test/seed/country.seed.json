@@ -1,0 +1,1922 @@
+[
+    {
+        "CountryID": "cc970010-756d-4f70-b2b5-014e81990ae5",
+        "ISO": "AF",
+        "Name": "Afghanistan",
+        "Iso3": "AFG",
+        "NumCode": 4,
+        "PhoneCode": 93
+    },
+    {
+        "CountryID": "87952da2-c223-4f2a-88d2-030478ab16b2",
+        "ISO": "AL",
+        "Name": "Albania",
+        "Iso3": "ALB",
+        "NumCode": 8,
+        "PhoneCode": 355
+    },
+    {
+        "CountryID": "42e785e2-ce9f-4815-af80-0392aa70e587",
+        "ISO": "DZ",
+        "Name": "Algeria",
+        "Iso3": "DZA",
+        "NumCode": 12,
+        "PhoneCode": 213
+    },
+    {
+        "CountryID": "1addef5e-c8c2-48e5-8b67-04766770b83a",
+        "ISO": "AS",
+        "Name": "American Samoa",
+        "Iso3": "ASM",
+        "NumCode": 16,
+        "PhoneCode": 1684
+    },
+    {
+        "CountryID": "9f6fb3ad-5b13-4e1f-9b0a-04f72ee638eb",
+        "ISO": "AD",
+        "Name": "Andorra",
+        "Iso3": "AND",
+        "NumCode": 20,
+        "PhoneCode": 376
+    },
+    {
+        "CountryID": "e4229675-a460-4a60-ae8f-060b3dc3b68f",
+        "ISO": "AO",
+        "Name": "Angola",
+        "Iso3": "AGO",
+        "NumCode": 24,
+        "PhoneCode": 244
+    },
+    {
+        "CountryID": "d8de9d51-39bb-49f0-8fed-06a84876ca34",
+        "ISO": "AI",
+        "Name": "Anguilla",
+        "Iso3": "AIA",
+        "NumCode": 660,
+        "PhoneCode": 1264
+    },
+    {
+        "CountryID": "99c842b6-dc5b-4691-b36c-08007a9c14ee",
+        "ISO": "AQ",
+        "Name": "Antarctica",
+        "Iso3": null,
+        "NumCode": null,
+        "PhoneCode": 0
+    },
+    {
+        "CountryID": "0317baa8-f8fa-4ae4-94be-0d780e842896",
+        "ISO": "AG",
+        "Name": "Antigua and Barbuda",
+        "Iso3": "ATG",
+        "NumCode": 28,
+        "PhoneCode": 1268
+    },
+    {
+        "CountryID": "5de3ff03-cf09-4251-9bfd-0db1086f8694",
+        "ISO": "AR",
+        "Name": "Argentina",
+        "Iso3": "ARG",
+        "NumCode": 32,
+        "PhoneCode": 54
+    },
+    {
+        "CountryID": "d67f2b64-914a-4331-8e33-0f3ed8568f36",
+        "ISO": "AM",
+        "Name": "Armenia",
+        "Iso3": "ARM",
+        "NumCode": 51,
+        "PhoneCode": 374
+    },
+    {
+        "CountryID": "a2f226f9-90d6-4467-9825-10eb4fbb317f",
+        "ISO": "AW",
+        "Name": "Aruba",
+        "Iso3": "ABW",
+        "NumCode": 533,
+        "PhoneCode": 297
+    },
+    {
+        "CountryID": "a10d7166-ad88-413f-81a0-110d1c87aedc",
+        "ISO": "AU",
+        "Name": "Australia",
+        "Iso3": "AUS",
+        "NumCode": 36,
+        "PhoneCode": 61
+    },
+    {
+        "CountryID": "ceda75a2-d53f-45aa-8ffe-11a9250f2738",
+        "ISO": "AT",
+        "Name": "Austria",
+        "Iso3": "AUT",
+        "NumCode": 40,
+        "PhoneCode": 43
+    },
+    {
+        "CountryID": "55ba22e3-5365-4e32-bd57-126f19252166",
+        "ISO": "AZ",
+        "Name": "Azerbaijan",
+        "Iso3": "AZE",
+        "NumCode": 31,
+        "PhoneCode": 994
+    },
+    {
+        "CountryID": "2afd13ea-e3be-4d79-b865-1369b1da928f",
+        "ISO": "BS",
+        "Name": "Bahamas",
+        "Iso3": "BHS",
+        "NumCode": 44,
+        "PhoneCode": 1242
+    },
+    {
+        "CountryID": "2cbfc57b-eaa0-4921-9825-146bb363f124",
+        "ISO": "BH",
+        "Name": "Bahrain",
+        "Iso3": "BHR",
+        "NumCode": 48,
+        "PhoneCode": 973
+    },
+    {
+        "CountryID": "5f6f2a33-1b4b-497c-ba87-169cd02ed82f",
+        "ISO": "BD",
+        "Name": "Bangladesh",
+        "Iso3": "BGD",
+        "NumCode": 50,
+        "PhoneCode": 880
+    },
+    {
+        "CountryID": "a4520cd6-554f-426d-ba79-1c92b5134da2",
+        "ISO": "BB",
+        "Name": "Barbados",
+        "Iso3": "BRB",
+        "NumCode": 52,
+        "PhoneCode": 1246
+    },
+    {
+        "CountryID": "091a1816-3aae-45ef-9590-1e760fd63074",
+        "ISO": "BY",
+        "Name": "Belarus",
+        "Iso3": "BLR",
+        "NumCode": 112,
+        "PhoneCode": 375
+    },
+    {
+        "CountryID": "8c7b7d1c-ab9c-4cf2-8100-1f97896f98f7",
+        "ISO": "BE",
+        "Name": "Belgium",
+        "Iso3": "BEL",
+        "NumCode": 56,
+        "PhoneCode": 32
+    },
+    {
+        "CountryID": "62bf6acf-89f5-4462-85de-1fd0ef02fe02",
+        "ISO": "BZ",
+        "Name": "Belize",
+        "Iso3": "BLZ",
+        "NumCode": 84,
+        "PhoneCode": 501
+    },
+    {
+        "CountryID": "87864380-dc80-4e20-89f0-204cc1eeb924",
+        "ISO": "BJ",
+        "Name": "Benin",
+        "Iso3": "BEN",
+        "NumCode": 204,
+        "PhoneCode": 229
+    },
+    {
+        "CountryID": "988dc3cd-d458-4454-9a8e-20eaf29b36e5",
+        "ISO": "BM",
+        "Name": "Bermuda",
+        "Iso3": "BMU",
+        "NumCode": 60,
+        "PhoneCode": 1441
+    },
+    {
+        "CountryID": "f65b74a5-0352-4eb1-826c-21ed39eff548",
+        "ISO": "BT",
+        "Name": "Bhutan",
+        "Iso3": "BTN",
+        "NumCode": 64,
+        "PhoneCode": 975
+    },
+    {
+        "CountryID": "a99e1c4c-cee4-4344-9080-24c10b33b1c0",
+        "ISO": "BO",
+        "Name": "Bolivia",
+        "Iso3": "BOL",
+        "NumCode": 68,
+        "PhoneCode": 591
+    },
+    {
+        "CountryID": "24793a87-642f-4a98-b92f-268f65351621",
+        "ISO": "BA",
+        "Name": "Bosnia and Herzegovina",
+        "Iso3": "BIH",
+        "NumCode": 70,
+        "PhoneCode": 387
+    },
+    {
+        "CountryID": "dafee20f-c186-436d-9648-2849cfdf2d4a",
+        "ISO": "BW",
+        "Name": "Botswana",
+        "Iso3": "BWA",
+        "NumCode": 72,
+        "PhoneCode": 267
+    },
+    {
+        "CountryID": "8dd87b1e-8072-410d-baf5-2977ad0dd818",
+        "ISO": "BV",
+        "Name": "Bouvet Island",
+        "Iso3": null,
+        "NumCode": null,
+        "PhoneCode": 0
+    },
+    {
+        "CountryID": "02b38a99-7018-4183-be4a-2aec7df0d791",
+        "ISO": "BR",
+        "Name": "Brazil",
+        "Iso3": "BRA",
+        "NumCode": 76,
+        "PhoneCode": 55
+    },
+    {
+        "CountryID": "0db573a0-f1cf-4043-b07c-2b2d04b16510",
+        "ISO": "IO",
+        "Name": "British Indian Ocean Territory",
+        "Iso3": null,
+        "NumCode": null,
+        "PhoneCode": 246
+    },
+    {
+        "CountryID": "b9ca795f-15b3-4ca8-950f-2bebe394473d",
+        "ISO": "BN",
+        "Name": "Brunei Darussalam",
+        "Iso3": "BRN",
+        "NumCode": 96,
+        "PhoneCode": 673
+    },
+    {
+        "CountryID": "5e5026c3-96bd-4cac-b54f-2c3686162b3d",
+        "ISO": "BG",
+        "Name": "Bulgaria",
+        "Iso3": "BGR",
+        "NumCode": 100,
+        "PhoneCode": 359
+    },
+    {
+        "CountryID": "aff4a196-5946-450d-a17e-2d78934c8a6f",
+        "ISO": "BF",
+        "Name": "Burkina Faso",
+        "Iso3": "BFA",
+        "NumCode": 854,
+        "PhoneCode": 226
+    },
+    {
+        "CountryID": "3dce1440-0cdd-4b39-aecc-2e5a600eaecf",
+        "ISO": "BI",
+        "Name": "Burundi",
+        "Iso3": "BDI",
+        "NumCode": 108,
+        "PhoneCode": 257
+    },
+    {
+        "CountryID": "4026fd6f-db88-4dcb-b4a7-30c9d5f61f07",
+        "ISO": "KH",
+        "Name": "Cambodia",
+        "Iso3": "KHM",
+        "NumCode": 116,
+        "PhoneCode": 855
+    },
+    {
+        "CountryID": "4bc8892f-3760-44b5-8083-3157e0bd7727",
+        "ISO": "CM",
+        "Name": "Cameroon",
+        "Iso3": "CMR",
+        "NumCode": 120,
+        "PhoneCode": 237
+    },
+    {
+        "CountryID": "e17f1fca-2e2f-4b99-84d3-323c977a4ff8",
+        "ISO": "CA",
+        "Name": "Canada",
+        "Iso3": "CAN",
+        "NumCode": 124,
+        "PhoneCode": 1
+    },
+    {
+        "CountryID": "4e1facfe-22fe-462b-9d5a-3295e8b2adc0",
+        "ISO": "CV",
+        "Name": "Cape Verde",
+        "Iso3": "CPV",
+        "NumCode": 132,
+        "PhoneCode": 238
+    },
+    {
+        "CountryID": "d135678a-1dce-4b12-81fa-32b437456ed1",
+        "ISO": "KY",
+        "Name": "Cayman Islands",
+        "Iso3": "CYM",
+        "NumCode": 136,
+        "PhoneCode": 1345
+    },
+    {
+        "CountryID": "e3270292-cb16-4a4a-8d42-33e9d78a8661",
+        "ISO": "CF",
+        "Name": "Central African Republic",
+        "Iso3": "CAF",
+        "NumCode": 140,
+        "PhoneCode": 236
+    },
+    {
+        "CountryID": "b61e4cfd-177a-4cf4-ae9c-371c932226fa",
+        "ISO": "TD",
+        "Name": "Chad",
+        "Iso3": "TCD",
+        "NumCode": 148,
+        "PhoneCode": 235
+    },
+    {
+        "CountryID": "a7e799b4-5792-4364-98cf-37ca2ff6d89f",
+        "ISO": "CL",
+        "Name": "Chile",
+        "Iso3": "CHL",
+        "NumCode": 152,
+        "PhoneCode": 56
+    },
+    {
+        "CountryID": "fc596ebd-a643-4ea3-9691-37d30fc564ef",
+        "ISO": "CN",
+        "Name": "China",
+        "Iso3": "CHN",
+        "NumCode": 156,
+        "PhoneCode": 86
+    },
+    {
+        "CountryID": "0aa96752-db76-40cf-988d-381677656a38",
+        "ISO": "CX",
+        "Name": "Christmas Island",
+        "Iso3": null,
+        "NumCode": null,
+        "PhoneCode": 61
+    },
+    {
+        "CountryID": "ec399136-3127-4538-8641-390d1b598add",
+        "ISO": "CC",
+        "Name": "Cocos (Keeling) Islands",
+        "Iso3": null,
+        "NumCode": null,
+        "PhoneCode": 672
+    },
+    {
+        "CountryID": "ba0e6fdc-d284-424d-b2d0-390d64394ebe",
+        "ISO": "CO",
+        "Name": "Colombia",
+        "Iso3": "COL",
+        "NumCode": 170,
+        "PhoneCode": 57
+    },
+    {
+        "CountryID": "3ce734c0-b742-4622-b89b-39a137d5f016",
+        "ISO": "KM",
+        "Name": "Comoros",
+        "Iso3": "COM",
+        "NumCode": 174,
+        "PhoneCode": 269
+    },
+    {
+        "CountryID": "c4d9028b-28fb-483d-8f94-3b5b1f399d4a",
+        "ISO": "CG",
+        "Name": "Congo",
+        "Iso3": "COG",
+        "NumCode": 178,
+        "PhoneCode": 242
+    },
+    {
+        "CountryID": "72ed07c4-b731-439a-bb4c-3ba49175b4c6",
+        "ISO": "CD",
+        "Name": "Congo, the Democratic Republic of the",
+        "Iso3": "COD",
+        "NumCode": 180,
+        "PhoneCode": 242
+    },
+    {
+        "CountryID": "40e3e174-0a70-4bd1-be2c-3dd8a8608bef",
+        "ISO": "CK",
+        "Name": "Cook Islands",
+        "Iso3": "COK",
+        "NumCode": 184,
+        "PhoneCode": 682
+    },
+    {
+        "CountryID": "6f5b2c84-94d7-4d76-bd77-3f8a61f37337",
+        "ISO": "CR",
+        "Name": "Costa Rica",
+        "Iso3": "CRI",
+        "NumCode": 188,
+        "PhoneCode": 506
+    },
+    {
+        "CountryID": "60b2e26e-0e0e-497f-aa5f-40315386055d",
+        "ISO": "CI",
+        "Name": "Cote D'Ivoire",
+        "Iso3": "CIV",
+        "NumCode": 384,
+        "PhoneCode": 225
+    },
+    {
+        "CountryID": "45c5f705-831b-4e5f-84d1-40af54172bdd",
+        "ISO": "HR",
+        "Name": "Croatia",
+        "Iso3": "HRV",
+        "NumCode": 191,
+        "PhoneCode": 385
+    },
+    {
+        "CountryID": "5a9ec428-921c-4f8f-9220-42b54cb871c7",
+        "ISO": "CU",
+        "Name": "Cuba",
+        "Iso3": "CUB",
+        "NumCode": 192,
+        "PhoneCode": 53
+    },
+    {
+        "CountryID": "f9e2057c-c13a-45de-aa30-42cccc08900f",
+        "ISO": "CY",
+        "Name": "Cyprus",
+        "Iso3": "CYP",
+        "NumCode": 196,
+        "PhoneCode": 357
+    },
+    {
+        "CountryID": "84522857-aa08-4050-96bb-4409eb1e1774",
+        "ISO": "CZ",
+        "Name": "Czech Republic",
+        "Iso3": "CZE",
+        "NumCode": 203,
+        "PhoneCode": 420
+    },
+    {
+        "CountryID": "4cd53e5f-0c8a-48e8-98fc-45672ea9eb7b",
+        "ISO": "DK",
+        "Name": "Denmark",
+        "Iso3": "DNK",
+        "NumCode": 208,
+        "PhoneCode": 45
+    },
+    {
+        "CountryID": "ce976989-f323-46a5-978a-45ab4bd4081d",
+        "ISO": "DJ",
+        "Name": "Djibouti",
+        "Iso3": "DJI",
+        "NumCode": 262,
+        "PhoneCode": 253
+    },
+    {
+        "CountryID": "60f3b8f1-1711-426d-8a13-46055d5c78cc",
+        "ISO": "DM",
+        "Name": "Dominica",
+        "Iso3": "DMA",
+        "NumCode": 212,
+        "PhoneCode": 1767
+    },
+    {
+        "CountryID": "9c1569db-c7aa-452a-8850-460cc05a1f82",
+        "ISO": "DO",
+        "Name": "Dominican Republic",
+        "Iso3": "DOM",
+        "NumCode": 214,
+        "PhoneCode": 1809
+    },
+    {
+        "CountryID": "14ee6917-bb9b-4037-8290-47a5045c8877",
+        "ISO": "EC",
+        "Name": "Ecuador",
+        "Iso3": "ECU",
+        "NumCode": 218,
+        "PhoneCode": 593
+    },
+    {
+        "CountryID": "0390fa33-d0f0-400b-9568-47ad8ab5e428",
+        "ISO": "EG",
+        "Name": "Egypt",
+        "Iso3": "EGY",
+        "NumCode": 818,
+        "PhoneCode": 20
+    },
+    {
+        "CountryID": "4c8f6daa-a316-4c0f-81cc-48460c606a21",
+        "ISO": "SV",
+        "Name": "El Salvador",
+        "Iso3": "SLV",
+        "NumCode": 222,
+        "PhoneCode": 503
+    },
+    {
+        "CountryID": "d00a6c27-dcab-4897-a984-48f0e01a729e",
+        "ISO": "GQ",
+        "Name": "Equatorial Guinea",
+        "Iso3": "GNQ",
+        "NumCode": 226,
+        "PhoneCode": 240
+    },
+    {
+        "CountryID": "3be2d6ed-938b-4833-a22d-49ea4ad92ed2",
+        "ISO": "ER",
+        "Name": "Eritrea",
+        "Iso3": "ERI",
+        "NumCode": 232,
+        "PhoneCode": 291
+    },
+    {
+        "CountryID": "f317f31e-52a1-4e8a-872d-4c0aa6ff32f4",
+        "ISO": "EE",
+        "Name": "Estonia",
+        "Iso3": "EST",
+        "NumCode": 233,
+        "PhoneCode": 372
+    },
+    {
+        "CountryID": "ac6e57b6-1e1e-4075-a6de-4cb59d05e98c",
+        "ISO": "ET",
+        "Name": "Ethiopia",
+        "Iso3": "ETH",
+        "NumCode": 231,
+        "PhoneCode": 251
+    },
+    {
+        "CountryID": "cb86362c-b25d-451b-af1a-4d4b1d5374d6",
+        "ISO": "FK",
+        "Name": "Falkland Islands (Malvinas)",
+        "Iso3": "FLK",
+        "NumCode": 238,
+        "PhoneCode": 500
+    },
+    {
+        "CountryID": "c15ceb7f-cef4-4103-abd1-4de0c5471787",
+        "ISO": "FO",
+        "Name": "Faroe Islands",
+        "Iso3": "FRO",
+        "NumCode": 234,
+        "PhoneCode": 298
+    },
+    {
+        "CountryID": "202e6bc9-0873-444e-93b0-4ee72ee9a3e1",
+        "ISO": "FJ",
+        "Name": "Fiji",
+        "Iso3": "FJI",
+        "NumCode": 242,
+        "PhoneCode": 679
+    },
+    {
+        "CountryID": "38de43b2-b1ef-4903-a9b6-4f423b6c169e",
+        "ISO": "FI",
+        "Name": "Finland",
+        "Iso3": "FIN",
+        "NumCode": 246,
+        "PhoneCode": 358
+    },
+    {
+        "CountryID": "28b1197a-ca1e-43c1-9daa-4f9a0f6c039a",
+        "ISO": "FR",
+        "Name": "France",
+        "Iso3": "FRA",
+        "NumCode": 250,
+        "PhoneCode": 33
+    },
+    {
+        "CountryID": "e79b44a5-14eb-4129-b7d5-500268c749a0",
+        "ISO": "GF",
+        "Name": "French Guiana",
+        "Iso3": "GUF",
+        "NumCode": 254,
+        "PhoneCode": 594
+    },
+    {
+        "CountryID": "3658168c-3606-4d67-9446-5228d534fe29",
+        "ISO": "PF",
+        "Name": "French Polynesia",
+        "Iso3": "PYF",
+        "NumCode": 258,
+        "PhoneCode": 689
+    },
+    {
+        "CountryID": "c4e29feb-df7b-450d-b53f-52290a664bd1",
+        "ISO": "TF",
+        "Name": "French Southern Territories",
+        "Iso3": null,
+        "NumCode": null,
+        "PhoneCode": 0
+    },
+    {
+        "CountryID": "f9520c9b-2b68-44a2-b31d-557633bb7128",
+        "ISO": "GA",
+        "Name": "Gabon",
+        "Iso3": "GAB",
+        "NumCode": 266,
+        "PhoneCode": 241
+    },
+    {
+        "CountryID": "b0095ebc-5a4e-4c17-8d99-568f35a84a4b",
+        "ISO": "GM",
+        "Name": "Gambia",
+        "Iso3": "GMB",
+        "NumCode": 270,
+        "PhoneCode": 220
+    },
+    {
+        "CountryID": "6986cc38-43ab-4040-9d98-56d497695350",
+        "ISO": "GE",
+        "Name": "Georgia",
+        "Iso3": "GEO",
+        "NumCode": 268,
+        "PhoneCode": 995
+    },
+    {
+        "CountryID": "da9236f7-f0e0-4b0d-b3b0-56e7da1e1625",
+        "ISO": "DE",
+        "Name": "Germany",
+        "Iso3": "DEU",
+        "NumCode": 276,
+        "PhoneCode": 49
+    },
+    {
+        "CountryID": "1d8d8be9-6bfc-492c-99df-577ce8a0ae7d",
+        "ISO": "GH",
+        "Name": "Ghana",
+        "Iso3": "GHA",
+        "NumCode": 288,
+        "PhoneCode": 233
+    },
+    {
+        "CountryID": "6175ff52-31aa-4dac-933e-57814f28e12e",
+        "ISO": "GI",
+        "Name": "Gibraltar",
+        "Iso3": "GIB",
+        "NumCode": 292,
+        "PhoneCode": 350
+    },
+    {
+        "CountryID": "391f61f6-1fea-4486-86ae-595657aa6d77",
+        "ISO": "GR",
+        "Name": "Greece",
+        "Iso3": "GRC",
+        "NumCode": 300,
+        "PhoneCode": 30
+    },
+    {
+        "CountryID": "2bfe2eb2-e6f2-4b53-a005-59cc2f9571e7",
+        "ISO": "GL",
+        "Name": "Greenland",
+        "Iso3": "GRL",
+        "NumCode": 304,
+        "PhoneCode": 299
+    },
+    {
+        "CountryID": "96a46ef0-946f-44f3-a87e-5ad646bf5986",
+        "ISO": "GD",
+        "Name": "Grenada",
+        "Iso3": "GRD",
+        "NumCode": 308,
+        "PhoneCode": 1473
+    },
+    {
+        "CountryID": "e45bf19b-a355-4adc-8618-5dd65a1fdd48",
+        "ISO": "GP",
+        "Name": "Guadeloupe",
+        "Iso3": "GLP",
+        "NumCode": 312,
+        "PhoneCode": 590
+    },
+    {
+        "CountryID": "2de37342-353b-4bdd-8696-5efb88b28de8",
+        "ISO": "GU",
+        "Name": "Guam",
+        "Iso3": "GUM",
+        "NumCode": 316,
+        "PhoneCode": 1671
+    },
+    {
+        "CountryID": "8a863b13-146b-4fca-9179-5efe80393978",
+        "ISO": "GT",
+        "Name": "Guatemala",
+        "Iso3": "GTM",
+        "NumCode": 320,
+        "PhoneCode": 502
+    },
+    {
+        "CountryID": "cd5c70fd-369c-4325-b73d-6037d5a380fe",
+        "ISO": "GN",
+        "Name": "Guinea",
+        "Iso3": "GIN",
+        "NumCode": 324,
+        "PhoneCode": 224
+    },
+    {
+        "CountryID": "2b5ed9de-3ab4-4f9a-a503-607dc0fc9469",
+        "ISO": "GW",
+        "Name": "Guinea-Bissau",
+        "Iso3": "GNB",
+        "NumCode": 624,
+        "PhoneCode": 245
+    },
+    {
+        "CountryID": "336a31b6-b23a-4430-96a7-60c6f9fe77d0",
+        "ISO": "GY",
+        "Name": "Guyana",
+        "Iso3": "GUY",
+        "NumCode": 328,
+        "PhoneCode": 592
+    },
+    {
+        "CountryID": "1d078b4b-d371-4da3-93a8-6156d27a5e25",
+        "ISO": "HT",
+        "Name": "Haiti",
+        "Iso3": "HTI",
+        "NumCode": 332,
+        "PhoneCode": 509
+    },
+    {
+        "CountryID": "86f48bcb-bf25-410a-a6f7-624b40c3646e",
+        "ISO": "HM",
+        "Name": "Heard Island and Mcdonald Islands",
+        "Iso3": null,
+        "NumCode": null,
+        "PhoneCode": 0
+    },
+    {
+        "CountryID": "b79e4773-28f8-4d13-ba72-6406409cd4c1",
+        "ISO": "VA",
+        "Name": "Holy See (Vatican City State)",
+        "Iso3": "VAT",
+        "NumCode": 336,
+        "PhoneCode": 39
+    },
+    {
+        "CountryID": "743701d9-ad2a-4551-81e7-648d9142fb5f",
+        "ISO": "HN",
+        "Name": "Honduras",
+        "Iso3": "HND",
+        "NumCode": 340,
+        "PhoneCode": 504
+    },
+    {
+        "CountryID": "13902a0f-195d-4fd8-9afd-65596fd836ff",
+        "ISO": "HK",
+        "Name": "Hong Kong",
+        "Iso3": "HKG",
+        "NumCode": 344,
+        "PhoneCode": 852
+    },
+    {
+        "CountryID": "4758ab5d-ca0a-461f-bbc1-677240d0b39d",
+        "ISO": "HU",
+        "Name": "Hungary",
+        "Iso3": "HUN",
+        "NumCode": 348,
+        "PhoneCode": 36
+    },
+    {
+        "CountryID": "d701a212-4c1e-4dd3-9caf-68048ea67579",
+        "ISO": "IS",
+        "Name": "Iceland",
+        "Iso3": "ISL",
+        "NumCode": 352,
+        "PhoneCode": 354
+    },
+    {
+        "CountryID": "b7bc55e5-c232-4c7e-b88e-6882f5ceca01",
+        "ISO": "IN",
+        "Name": "India",
+        "Iso3": "IND",
+        "NumCode": 356,
+        "PhoneCode": 91
+    },
+    {
+        "CountryID": "e2aaf5d0-b555-4714-ad19-690498d6dcdd",
+        "ISO": "ID",
+        "Name": "Indonesia",
+        "Iso3": "IDN",
+        "NumCode": 360,
+        "PhoneCode": 62
+    },
+    {
+        "CountryID": "04bb775d-6b3c-4aa6-a2f1-69629afe0918",
+        "ISO": "IR",
+        "Name": "Iran, Islamic Republic of",
+        "Iso3": "IRN",
+        "NumCode": 364,
+        "PhoneCode": 98
+    },
+    {
+        "CountryID": "fa12e445-0b04-413b-b711-6994e2d5f35d",
+        "ISO": "IQ",
+        "Name": "Iraq",
+        "Iso3": "IRQ",
+        "NumCode": 368,
+        "PhoneCode": 964
+    },
+    {
+        "CountryID": "2593c290-0a33-4a09-9094-6b3ae4352549",
+        "ISO": "IE",
+        "Name": "Ireland",
+        "Iso3": "IRL",
+        "NumCode": 372,
+        "PhoneCode": 353
+    },
+    {
+        "CountryID": "7c0f50cf-50b9-4d99-b753-6b908a5db2b8",
+        "ISO": "IL",
+        "Name": "Israel",
+        "Iso3": "ISR",
+        "NumCode": 376,
+        "PhoneCode": 972
+    },
+    {
+        "CountryID": "c5972e03-32b7-4e39-bcf4-6bc82a1ed8fe",
+        "ISO": "IT",
+        "Name": "Italy",
+        "Iso3": "ITA",
+        "NumCode": 380,
+        "PhoneCode": 39
+    },
+    {
+        "CountryID": "447a69cc-daa8-4446-8eaf-6c1e9dbbe606",
+        "ISO": "JM",
+        "Name": "Jamaica",
+        "Iso3": "JAM",
+        "NumCode": 388,
+        "PhoneCode": 1876
+    },
+    {
+        "CountryID": "c40d580d-fc36-4135-8cdb-6e18ea98e484",
+        "ISO": "JP",
+        "Name": "Japan",
+        "Iso3": "JPN",
+        "NumCode": 392,
+        "PhoneCode": 81
+    },
+    {
+        "CountryID": "29f3ceb1-32c6-4fa8-b3db-6e8f29b9cc91",
+        "ISO": "JO",
+        "Name": "Jordan",
+        "Iso3": "JOR",
+        "NumCode": 400,
+        "PhoneCode": 962
+    },
+    {
+        "CountryID": "9f22b384-5468-4b69-8b75-73cf4ac08509",
+        "ISO": "KZ",
+        "Name": "Kazakhstan",
+        "Iso3": "KAZ",
+        "NumCode": 398,
+        "PhoneCode": 7
+    },
+    {
+        "CountryID": "a6358d09-92e1-4fbc-833f-75422f9d6b08",
+        "ISO": "KE",
+        "Name": "Kenya",
+        "Iso3": "KEN",
+        "NumCode": 404,
+        "PhoneCode": 254
+    },
+    {
+        "CountryID": "d2a0f63f-dd0f-4baf-8e78-76aeb57f5d04",
+        "ISO": "KI",
+        "Name": "Kiribati",
+        "Iso3": "KIR",
+        "NumCode": 296,
+        "PhoneCode": 686
+    },
+    {
+        "CountryID": "9d0dfb3b-cc93-4c1f-ab5b-795120e327f1",
+        "ISO": "KP",
+        "Name": "Korea, Democratic People's Republic of",
+        "Iso3": "PRK",
+        "NumCode": 408,
+        "PhoneCode": 850
+    },
+    {
+        "CountryID": "bf018fd8-4d74-4411-8452-795ece530cab",
+        "ISO": "KR",
+        "Name": "Korea, Republic of",
+        "Iso3": "KOR",
+        "NumCode": 410,
+        "PhoneCode": 82
+    },
+    {
+        "CountryID": "9f3aa148-412f-4254-af97-7ac167684b9d",
+        "ISO": "KW",
+        "Name": "Kuwait",
+        "Iso3": "KWT",
+        "NumCode": 414,
+        "PhoneCode": 965
+    },
+    {
+        "CountryID": "de9be5e0-b033-418e-baf6-7adcbcd37971",
+        "ISO": "KG",
+        "Name": "Kyrgyzstan",
+        "Iso3": "KGZ",
+        "NumCode": 417,
+        "PhoneCode": 996
+    },
+    {
+        "CountryID": "3c98f38c-6a4b-4372-8368-7d3b60f648e1",
+        "ISO": "LA",
+        "Name": "Lao People's Democratic Republic",
+        "Iso3": "LAO",
+        "NumCode": 418,
+        "PhoneCode": 856
+    },
+    {
+        "CountryID": "c2c2dce5-116b-4ae9-96aa-7d839ffaf05e",
+        "ISO": "LV",
+        "Name": "Latvia",
+        "Iso3": "LVA",
+        "NumCode": 428,
+        "PhoneCode": 371
+    },
+    {
+        "CountryID": "3b147ffd-2899-41f7-8017-7f9f90679268",
+        "ISO": "LB",
+        "Name": "Lebanon",
+        "Iso3": "LBN",
+        "NumCode": 422,
+        "PhoneCode": 961
+    },
+    {
+        "CountryID": "dccae1ec-6908-4ea6-8969-8107f68f0d75",
+        "ISO": "LS",
+        "Name": "Lesotho",
+        "Iso3": "LSO",
+        "NumCode": 426,
+        "PhoneCode": 266
+    },
+    {
+        "CountryID": "7f13f8ee-a180-4d78-94ae-81c890184c33",
+        "ISO": "LR",
+        "Name": "Liberia",
+        "Iso3": "LBR",
+        "NumCode": 430,
+        "PhoneCode": 231
+    },
+    {
+        "CountryID": "c3f0792e-9068-448a-b6f7-82334e49da7d",
+        "ISO": "LY",
+        "Name": "Libyan Arab Jamahiriya",
+        "Iso3": "LBY",
+        "NumCode": 434,
+        "PhoneCode": 218
+    },
+    {
+        "CountryID": "0ea8663d-b725-49c4-aeac-82e27ad37eb8",
+        "ISO": "LI",
+        "Name": "Liechtenstein",
+        "Iso3": "LIE",
+        "NumCode": 438,
+        "PhoneCode": 423
+    },
+    {
+        "CountryID": "4066816a-968c-4562-8126-83b642c9cfb7",
+        "ISO": "LT",
+        "Name": "Lithuania",
+        "Iso3": "LTU",
+        "NumCode": 440,
+        "PhoneCode": 370
+    },
+    {
+        "CountryID": "20904d75-e7ad-4f41-9d13-83fe83e72957",
+        "ISO": "LU",
+        "Name": "Luxembourg",
+        "Iso3": "LUX",
+        "NumCode": 442,
+        "PhoneCode": 352
+    },
+    {
+        "CountryID": "5a57a146-4013-4e01-b230-84b8f0773ee8",
+        "ISO": "MO",
+        "Name": "Macao",
+        "Iso3": "MAC",
+        "NumCode": 446,
+        "PhoneCode": 853
+    },
+    {
+        "CountryID": "4d27cdb6-7ce2-4e55-91df-84f7b88aa9cd",
+        "ISO": "MK",
+        "Name": "Macedonia, the Former Yugoslav Republic of",
+        "Iso3": "MKD",
+        "NumCode": 807,
+        "PhoneCode": 389
+    },
+    {
+        "CountryID": "b48d055f-a78a-43e0-b0d1-8519889721f8",
+        "ISO": "MG",
+        "Name": "Madagascar",
+        "Iso3": "MDG",
+        "NumCode": 450,
+        "PhoneCode": 261
+    },
+    {
+        "CountryID": "42a0332b-6f00-4a5b-aefd-87c18fc8d873",
+        "ISO": "MW",
+        "Name": "Malawi",
+        "Iso3": "MWI",
+        "NumCode": 454,
+        "PhoneCode": 265
+    },
+    {
+        "CountryID": "272383ae-0145-4866-a368-88a9a60b17e1",
+        "ISO": "MY",
+        "Name": "Malaysia",
+        "Iso3": "MYS",
+        "NumCode": 458,
+        "PhoneCode": 60
+    },
+    {
+        "CountryID": "c1eac928-6c15-485e-85d8-8b94d69e33cd",
+        "ISO": "MV",
+        "Name": "Maldives",
+        "Iso3": "MDV",
+        "NumCode": 462,
+        "PhoneCode": 960
+    },
+    {
+        "CountryID": "90670667-ad6a-4c48-bfc1-8ba52920d0f1",
+        "ISO": "ML",
+        "Name": "Mali",
+        "Iso3": "MLI",
+        "NumCode": 466,
+        "PhoneCode": 223
+    },
+    {
+        "CountryID": "e8ca906a-c2b9-4f1e-b504-8f2f184b92a2",
+        "ISO": "MT",
+        "Name": "Malta",
+        "Iso3": "MLT",
+        "NumCode": 470,
+        "PhoneCode": 356
+    },
+    {
+        "CountryID": "9544b338-9391-4608-8a77-8fce4a9c99b9",
+        "ISO": "MH",
+        "Name": "Marshall Islands",
+        "Iso3": "MHL",
+        "NumCode": 584,
+        "PhoneCode": 692
+    },
+    {
+        "CountryID": "4c952c9a-2147-4c89-b4ac-90db724a40fb",
+        "ISO": "MQ",
+        "Name": "Martinique",
+        "Iso3": "MTQ",
+        "NumCode": 474,
+        "PhoneCode": 596
+    },
+    {
+        "CountryID": "28a10d80-05ba-4cc9-adb6-933eea58460b",
+        "ISO": "MR",
+        "Name": "Mauritania",
+        "Iso3": "MRT",
+        "NumCode": 478,
+        "PhoneCode": 222
+    },
+    {
+        "CountryID": "51ed3f3f-b2a3-4542-80b2-938f0130fa8a",
+        "ISO": "MU",
+        "Name": "Mauritius",
+        "Iso3": "MUS",
+        "NumCode": 480,
+        "PhoneCode": 230
+    },
+    {
+        "CountryID": "864f8d03-5342-4220-ac12-9619b5c25af4",
+        "ISO": "YT",
+        "Name": "Mayotte",
+        "Iso3": null,
+        "NumCode": null,
+        "PhoneCode": 269
+    },
+    {
+        "CountryID": "20efb556-e56f-459d-96e2-97ba0f61ab20",
+        "ISO": "MX",
+        "Name": "Mexico",
+        "Iso3": "MEX",
+        "NumCode": 484,
+        "PhoneCode": 52
+    },
+    {
+        "CountryID": "82bbb83a-097c-445f-a4e7-980aa6397ab8",
+        "ISO": "FM",
+        "Name": "Micronesia, Federated States of",
+        "Iso3": "FSM",
+        "NumCode": 583,
+        "PhoneCode": 691
+    },
+    {
+        "CountryID": "bb321ce9-0e93-4118-8dd7-9815efef8ac6",
+        "ISO": "MD",
+        "Name": "Moldova, Republic of",
+        "Iso3": "MDA",
+        "NumCode": 498,
+        "PhoneCode": 373
+    },
+    {
+        "CountryID": "a9c01db6-57eb-4fda-96b0-992dc9a08c29",
+        "ISO": "MC",
+        "Name": "Monaco",
+        "Iso3": "MCO",
+        "NumCode": 492,
+        "PhoneCode": 377
+    },
+    {
+        "CountryID": "c6a55306-f38c-44d9-9f74-9938732b6672",
+        "ISO": "MN",
+        "Name": "Mongolia",
+        "Iso3": "MNG",
+        "NumCode": 496,
+        "PhoneCode": 976
+    },
+    {
+        "CountryID": "d7877da2-350a-4f01-a844-994ecb5bc164",
+        "ISO": "MS",
+        "Name": "Montserrat",
+        "Iso3": "MSR",
+        "NumCode": 500,
+        "PhoneCode": 1664
+    },
+    {
+        "CountryID": "5e0fb32d-bd1a-4ef0-a133-996e2cb2cb6f",
+        "ISO": "MA",
+        "Name": "Morocco",
+        "Iso3": "MAR",
+        "NumCode": 504,
+        "PhoneCode": 212
+    },
+    {
+        "CountryID": "438b57e3-61f5-4bb9-a537-99cbc33de54f",
+        "ISO": "MZ",
+        "Name": "Mozambique",
+        "Iso3": "MOZ",
+        "NumCode": 508,
+        "PhoneCode": 258
+    },
+    {
+        "CountryID": "e548d6cf-e0ba-434e-ab08-9cf62f213936",
+        "ISO": "MM",
+        "Name": "Myanmar",
+        "Iso3": "MMR",
+        "NumCode": 104,
+        "PhoneCode": 95
+    },
+    {
+        "CountryID": "7476d155-aba8-4126-818d-9e7093f22cdd",
+        "ISO": "NA",
+        "Name": "Namibia",
+        "Iso3": "NAM",
+        "NumCode": 516,
+        "PhoneCode": 264
+    },
+    {
+        "CountryID": "ea644837-e945-4bfc-a920-9f7d5393ef1a",
+        "ISO": "NR",
+        "Name": "Nauru",
+        "Iso3": "NRU",
+        "NumCode": 520,
+        "PhoneCode": 674
+    },
+    {
+        "CountryID": "90fb0a83-8d43-40ec-98ea-a08a6cecccf7",
+        "ISO": "NP",
+        "Name": "Nepal",
+        "Iso3": "NPL",
+        "NumCode": 524,
+        "PhoneCode": 977
+    },
+    {
+        "CountryID": "8d098426-6db8-4594-a08c-a25a59435a89",
+        "ISO": "NL",
+        "Name": "Netherlands",
+        "Iso3": "NLD",
+        "NumCode": 528,
+        "PhoneCode": 31
+    },
+    {
+        "CountryID": "9a70b50e-5754-4220-9ab6-a25e0dded652",
+        "ISO": "AN",
+        "Name": "Netherlands Antilles",
+        "Iso3": "ANT",
+        "NumCode": 530,
+        "PhoneCode": 599
+    },
+    {
+        "CountryID": "56f4c70e-3df5-4eb8-93ba-a26bfe9bd155",
+        "ISO": "NC",
+        "Name": "New Caledonia",
+        "Iso3": "NCL",
+        "NumCode": 540,
+        "PhoneCode": 687
+    },
+    {
+        "CountryID": "285a75bd-70f2-4151-9efe-a27066646614",
+        "ISO": "NZ",
+        "Name": "New Zealand",
+        "Iso3": "NZL",
+        "NumCode": 554,
+        "PhoneCode": 64
+    },
+    {
+        "CountryID": "06313343-04d6-4e56-a55f-a54304303a61",
+        "ISO": "NI",
+        "Name": "Nicaragua",
+        "Iso3": "NIC",
+        "NumCode": 558,
+        "PhoneCode": 505
+    },
+    {
+        "CountryID": "0fd276c3-7c11-4189-b98a-a59f757c7c73",
+        "ISO": "NE",
+        "Name": "Niger",
+        "Iso3": "NER",
+        "NumCode": 562,
+        "PhoneCode": 227
+    },
+    {
+        "CountryID": "0346ba10-7367-446d-8eb9-a8b9bef34830",
+        "ISO": "NG",
+        "Name": "Nigeria",
+        "Iso3": "NGA",
+        "NumCode": 566,
+        "PhoneCode": 234
+    },
+    {
+        "CountryID": "005f0323-9dba-4503-a69d-a8f9720dd9ba",
+        "ISO": "NU",
+        "Name": "Niue",
+        "Iso3": "NIU",
+        "NumCode": 570,
+        "PhoneCode": 683
+    },
+    {
+        "CountryID": "b5616e33-fbcc-454e-9088-a904a4dbaa6e",
+        "ISO": "NF",
+        "Name": "Norfolk Island",
+        "Iso3": "NFK",
+        "NumCode": 574,
+        "PhoneCode": 672
+    },
+    {
+        "CountryID": "5e7dd828-6b40-46af-84c6-a90640c0024f",
+        "ISO": "MP",
+        "Name": "Northern Mariana Islands",
+        "Iso3": "MNP",
+        "NumCode": 580,
+        "PhoneCode": 1670
+    },
+    {
+        "CountryID": "32cec44f-f4aa-4994-ad66-a92db4a81a50",
+        "ISO": "NO",
+        "Name": "Norway",
+        "Iso3": "NOR",
+        "NumCode": 578,
+        "PhoneCode": 47
+    },
+    {
+        "CountryID": "a4fd5602-7a47-448d-8cbe-aa9a713b015d",
+        "ISO": "OM",
+        "Name": "Oman",
+        "Iso3": "OMN",
+        "NumCode": 512,
+        "PhoneCode": 968
+    },
+    {
+        "CountryID": "12f89e7e-ff22-4e6a-b388-aad7795294fb",
+        "ISO": "PK",
+        "Name": "Pakistan",
+        "Iso3": "PAK",
+        "NumCode": 586,
+        "PhoneCode": 92
+    },
+    {
+        "CountryID": "556a5d07-1520-41c8-a226-ac016c363cdf",
+        "ISO": "PW",
+        "Name": "Palau",
+        "Iso3": "PLW",
+        "NumCode": 585,
+        "PhoneCode": 680
+    },
+    {
+        "CountryID": "b366e76b-8789-401c-8f48-ac950e357725",
+        "ISO": "PS",
+        "Name": "Palestinian Territory, Occupied",
+        "Iso3": null,
+        "NumCode": null,
+        "PhoneCode": 970
+    },
+    {
+        "CountryID": "5f73a095-aa90-4fc8-afe5-ae159f2f8d0c",
+        "ISO": "PA",
+        "Name": "Panama",
+        "Iso3": "PAN",
+        "NumCode": 591,
+        "PhoneCode": 507
+    },
+    {
+        "CountryID": "31f55f00-a284-419c-b161-ae6490f1cabc",
+        "ISO": "PG",
+        "Name": "Papua New Guinea",
+        "Iso3": "PNG",
+        "NumCode": 598,
+        "PhoneCode": 675
+    },
+    {
+        "CountryID": "e38671a7-0771-4527-888f-b09257a8a2e1",
+        "ISO": "PY",
+        "Name": "Paraguay",
+        "Iso3": "PRY",
+        "NumCode": 600,
+        "PhoneCode": 595
+    },
+    {
+        "CountryID": "08ef59f2-e957-4692-82f8-b1cc8bd29cfb",
+        "ISO": "PE",
+        "Name": "Peru",
+        "Iso3": "PER",
+        "NumCode": 604,
+        "PhoneCode": 51
+    },
+    {
+        "CountryID": "75c5612d-ddf8-4a1a-99ed-b34e6fb3a0a8",
+        "ISO": "PH",
+        "Name": "Philippines",
+        "Iso3": "PHL",
+        "NumCode": 608,
+        "PhoneCode": 63
+    },
+    {
+        "CountryID": "c6a096b6-e313-4ad2-b6b4-b36a62f91ac4",
+        "ISO": "PN",
+        "Name": "Pitcairn",
+        "Iso3": "PCN",
+        "NumCode": 612,
+        "PhoneCode": 0
+    },
+    {
+        "CountryID": "5c11a8c0-91f5-483d-860f-b5b249299a4c",
+        "ISO": "PL",
+        "Name": "Poland",
+        "Iso3": "POL",
+        "NumCode": 616,
+        "PhoneCode": 48
+    },
+    {
+        "CountryID": "eb2efd10-72cb-40bd-b696-b64bac2a7192",
+        "ISO": "PT",
+        "Name": "Portugal",
+        "Iso3": "PRT",
+        "NumCode": 620,
+        "PhoneCode": 351
+    },
+    {
+        "CountryID": "8a566d0f-7160-4c69-9bef-b73aff3067b9",
+        "ISO": "PR",
+        "Name": "Puerto Rico",
+        "Iso3": "PRI",
+        "NumCode": 630,
+        "PhoneCode": 1787
+    },
+    {
+        "CountryID": "d1ead4a6-81d6-4822-ae15-b7fc03048b25",
+        "ISO": "QA",
+        "Name": "Qatar",
+        "Iso3": "QAT",
+        "NumCode": 634,
+        "PhoneCode": 974
+    },
+    {
+        "CountryID": "bb3a80c3-31cf-481f-be61-b8d446b6596a",
+        "ISO": "RE",
+        "Name": "Reunion",
+        "Iso3": "REU",
+        "NumCode": 638,
+        "PhoneCode": 262
+    },
+    {
+        "CountryID": "6a3b82a9-5e20-4677-a0d8-b8f80d7afba7",
+        "ISO": "RO",
+        "Name": "Romania",
+        "Iso3": "ROM",
+        "NumCode": 642,
+        "PhoneCode": 40
+    },
+    {
+        "CountryID": "b51418bb-f7a0-4e33-80e2-b970983cd930",
+        "ISO": "RU",
+        "Name": "Russian Federation",
+        "Iso3": "RUS",
+        "NumCode": 643,
+        "PhoneCode": 70
+    },
+    {
+        "CountryID": "e584b064-c9c0-4e26-8175-bb86d022c7d5",
+        "ISO": "RW",
+        "Name": "Rwanda",
+        "Iso3": "RWA",
+        "NumCode": 646,
+        "PhoneCode": 250
+    },
+    {
+        "CountryID": "d99991b0-e664-4757-a58c-bc0a5454d67e",
+        "ISO": "SH",
+        "Name": "Saint Helena",
+        "Iso3": "SHN",
+        "NumCode": 654,
+        "PhoneCode": 290
+    },
+    {
+        "CountryID": "65d0a08e-84c3-454f-92e3-bc8215a8736e",
+        "ISO": "KN",
+        "Name": "Saint Kitts and Nevis",
+        "Iso3": "KNA",
+        "NumCode": 659,
+        "PhoneCode": 1869
+    },
+    {
+        "CountryID": "a4e3b52b-07ca-4e14-98e2-bd061e4ca2c9",
+        "ISO": "LC",
+        "Name": "Saint Lucia",
+        "Iso3": "LCA",
+        "NumCode": 662,
+        "PhoneCode": 1758
+    },
+    {
+        "CountryID": "edf26277-3db0-4932-94bb-bdbb8d535fe4",
+        "ISO": "PM",
+        "Name": "Saint Pierre and Miquelon",
+        "Iso3": "SPM",
+        "NumCode": 666,
+        "PhoneCode": 508
+    },
+    {
+        "CountryID": "3eec984c-1ed2-4f97-b9ba-bfc982bea08b",
+        "ISO": "VC",
+        "Name": "Saint Vincent and the Grenadines",
+        "Iso3": "VCT",
+        "NumCode": 670,
+        "PhoneCode": 1784
+    },
+    {
+        "CountryID": "7b86cf02-c6e4-44b6-9d6a-c1fe3dfb0a69",
+        "ISO": "WS",
+        "Name": "Samoa",
+        "Iso3": "WSM",
+        "NumCode": 882,
+        "PhoneCode": 684
+    },
+    {
+        "CountryID": "91f50a12-5e11-469b-8240-c2f6f9a30937",
+        "ISO": "SM",
+        "Name": "San Marino",
+        "Iso3": "SMR",
+        "NumCode": 674,
+        "PhoneCode": 378
+    },
+    {
+        "CountryID": "b8f13164-3c23-496e-b1a5-c35e5049317d",
+        "ISO": "ST",
+        "Name": "Sao Tome and Principe",
+        "Iso3": "STP",
+        "NumCode": 678,
+        "PhoneCode": 239
+    },
+    {
+        "CountryID": "b7b02067-f948-49af-a418-c6c3e59d5990",
+        "ISO": "SA",
+        "Name": "Saudi Arabia",
+        "Iso3": "SAU",
+        "NumCode": 682,
+        "PhoneCode": 966
+    },
+    {
+        "CountryID": "df81fd4a-fdd0-40c0-a166-c921fb121e8a",
+        "ISO": "SN",
+        "Name": "Senegal",
+        "Iso3": "SEN",
+        "NumCode": 686,
+        "PhoneCode": 221
+    },
+    {
+        "CountryID": "3074d96d-c438-43f5-95e6-cb97e2872cd5",
+        "ISO": "CS",
+        "Name": "Serbia and Montenegro",
+        "Iso3": null,
+        "NumCode": null,
+        "PhoneCode": 381
+    },
+    {
+        "CountryID": "91b796cd-993a-4a3a-bed2-cd2ea2659ee8",
+        "ISO": "SC",
+        "Name": "Seychelles",
+        "Iso3": "SYC",
+        "NumCode": 690,
+        "PhoneCode": 248
+    },
+    {
+        "CountryID": "e5c120cc-d482-4134-83b9-cdfd4b9b4f27",
+        "ISO": "SL",
+        "Name": "Sierra Leone",
+        "Iso3": "SLE",
+        "NumCode": 694,
+        "PhoneCode": 232
+    },
+    {
+        "CountryID": "130d3be0-37fb-474d-b7be-ce36d7adbe74",
+        "ISO": "SG",
+        "Name": "Singapore",
+        "Iso3": "SGP",
+        "NumCode": 702,
+        "PhoneCode": 65
+    },
+    {
+        "CountryID": "22f32ea2-4b8d-4230-997c-cecf13971671",
+        "ISO": "SK",
+        "Name": "Slovakia",
+        "Iso3": "SVK",
+        "NumCode": 703,
+        "PhoneCode": 421
+    },
+    {
+        "CountryID": "aa7aa829-6b34-46b3-95fb-d01c3eeeb265",
+        "ISO": "SI",
+        "Name": "Slovenia",
+        "Iso3": "SVN",
+        "NumCode": 705,
+        "PhoneCode": 386
+    },
+    {
+        "CountryID": "609cb995-1675-4f35-902f-d09bea586d96",
+        "ISO": "SB",
+        "Name": "Solomon Islands",
+        "Iso3": "SLB",
+        "NumCode": 90,
+        "PhoneCode": 677
+    },
+    {
+        "CountryID": "5170afa5-35d1-41db-8c5a-d12f3e556da5",
+        "ISO": "SO",
+        "Name": "Somalia",
+        "Iso3": "SOM",
+        "NumCode": 706,
+        "PhoneCode": 252
+    },
+    {
+        "CountryID": "5f4a05ae-e419-40ea-b924-d14650ae7702",
+        "ISO": "ZA",
+        "Name": "South Africa",
+        "Iso3": "ZAF",
+        "NumCode": 710,
+        "PhoneCode": 27
+    },
+    {
+        "CountryID": "31b6e86b-64a3-4cba-941e-d20634ec3a1f",
+        "ISO": "GS",
+        "Name": "South Georgia and the South Sandwich Islands",
+        "Iso3": null,
+        "NumCode": null,
+        "PhoneCode": 0
+    },
+    {
+        "CountryID": "12de7a04-0e19-4315-a568-d2d15b52c5da",
+        "ISO": "ES",
+        "Name": "Spain",
+        "Iso3": "ESP",
+        "NumCode": 724,
+        "PhoneCode": 34
+    },
+    {
+        "CountryID": "c5598e86-5146-4843-b30b-d452cf431d19",
+        "ISO": "LK",
+        "Name": "Sri Lanka",
+        "Iso3": "LKA",
+        "NumCode": 144,
+        "PhoneCode": 94
+    },
+    {
+        "CountryID": "c9709f5b-9aa1-422b-9224-d5ab51c8bd9e",
+        "ISO": "SD",
+        "Name": "Sudan",
+        "Iso3": "SDN",
+        "NumCode": 736,
+        "PhoneCode": 249
+    },
+    {
+        "CountryID": "fa0d01c2-0710-45b5-b617-d7b06135bf3b",
+        "ISO": "SR",
+        "Name": "Suriname",
+        "Iso3": "SUR",
+        "NumCode": 740,
+        "PhoneCode": 597
+    },
+    {
+        "CountryID": "2cb8e584-1705-4999-91dd-d8334c708763",
+        "ISO": "SJ",
+        "Name": "Svalbard and Jan Mayen",
+        "Iso3": "SJM",
+        "NumCode": 744,
+        "PhoneCode": 47
+    },
+    {
+        "CountryID": "fd43c1df-1081-4ff4-9173-daaec889bdd5",
+        "ISO": "SZ",
+        "Name": "Swaziland",
+        "Iso3": "SWZ",
+        "NumCode": 748,
+        "PhoneCode": 268
+    },
+    {
+        "CountryID": "35d5327c-fd32-489e-b510-dda8b48f0506",
+        "ISO": "SE",
+        "Name": "Sweden",
+        "Iso3": "SWE",
+        "NumCode": 752,
+        "PhoneCode": 46
+    },
+    {
+        "CountryID": "845a8862-e791-4144-baf4-deab062179e9",
+        "ISO": "CH",
+        "Name": "Switzerland",
+        "Iso3": "CHE",
+        "NumCode": 756,
+        "PhoneCode": 41
+    },
+    {
+        "CountryID": "9e58d49f-0acc-4214-b44e-e0f1fc7e83b4",
+        "ISO": "SY",
+        "Name": "Syrian Arab Republic",
+        "Iso3": "SYR",
+        "NumCode": 760,
+        "PhoneCode": 963
+    },
+    {
+        "CountryID": "a50e28f9-7d45-4c8b-bd18-e4e2efcedffa",
+        "ISO": "TW",
+        "Name": "Taiwan, Province of China",
+        "Iso3": "TWN",
+        "NumCode": 158,
+        "PhoneCode": 886
+    },
+    {
+        "CountryID": "e82e234e-da04-4e51-930c-e620bdb3213f",
+        "ISO": "TJ",
+        "Name": "Tajikistan",
+        "Iso3": "TJK",
+        "NumCode": 762,
+        "PhoneCode": 992
+    },
+    {
+        "CountryID": "a118bd37-e045-41ab-a9ff-e7c3135785c0",
+        "ISO": "TZ",
+        "Name": "Tanzania, United Republic of",
+        "Iso3": "TZA",
+        "NumCode": 834,
+        "PhoneCode": 255
+    },
+    {
+        "CountryID": "7db20dfa-649c-428f-8288-e8938f0ad0f4",
+        "ISO": "TH",
+        "Name": "Thailand",
+        "Iso3": "THA",
+        "NumCode": 764,
+        "PhoneCode": 66
+    },
+    {
+        "CountryID": "789fd75c-f1c3-4768-b49e-ea4f5e98e537",
+        "ISO": "TL",
+        "Name": "Timor-Leste",
+        "Iso3": null,
+        "NumCode": null,
+        "PhoneCode": 670
+    },
+    {
+        "CountryID": "e4a7c5d9-89d6-466a-8f1a-ea62fe71a24d",
+        "ISO": "TG",
+        "Name": "Togo",
+        "Iso3": "TGO",
+        "NumCode": 768,
+        "PhoneCode": 228
+    },
+    {
+        "CountryID": "da6a90d8-2595-4103-9a90-ec67b01c0768",
+        "ISO": "TK",
+        "Name": "Tokelau",
+        "Iso3": "TKL",
+        "NumCode": 772,
+        "PhoneCode": 690
+    },
+    {
+        "CountryID": "801b4399-5a4b-46ad-b2ff-ed361dae8280",
+        "ISO": "TO",
+        "Name": "Tonga",
+        "Iso3": "TON",
+        "NumCode": 776,
+        "PhoneCode": 676
+    },
+    {
+        "CountryID": "2583a567-3c01-414f-8507-ef1da77107e3",
+        "ISO": "TT",
+        "Name": "Trinidad and Tobago",
+        "Iso3": "TTO",
+        "NumCode": 780,
+        "PhoneCode": 1868
+    },
+    {
+        "CountryID": "4293d183-2eb3-43be-a0c2-f096c56833f2",
+        "ISO": "TN",
+        "Name": "Tunisia",
+        "Iso3": "TUN",
+        "NumCode": 788,
+        "PhoneCode": 216
+    },
+    {
+        "CountryID": "d481a3b3-d3ba-4da4-a0ae-f0ab3860e983",
+        "ISO": "TR",
+        "Name": "Turkey",
+        "Iso3": "TUR",
+        "NumCode": 792,
+        "PhoneCode": 90
+    },
+    {
+        "CountryID": "53a537c8-2e97-4646-997e-f186ebe804d2",
+        "ISO": "TM",
+        "Name": "Turkmenistan",
+        "Iso3": "TKM",
+        "NumCode": 795,
+        "PhoneCode": 7370
+    },
+    {
+        "CountryID": "18bc20f0-f3c8-4894-97ab-f301f5731ea8",
+        "ISO": "TC",
+        "Name": "Turks and Caicos Islands",
+        "Iso3": "TCA",
+        "NumCode": 796,
+        "PhoneCode": 1649
+    },
+    {
+        "CountryID": "d0a7cb43-8c6d-44cb-b645-f3f56dcf1bbd",
+        "ISO": "TV",
+        "Name": "Tuvalu",
+        "Iso3": "TUV",
+        "NumCode": 798,
+        "PhoneCode": 688
+    },
+    {
+        "CountryID": "16fd7531-e22a-4044-9817-f50726bf5bd1",
+        "ISO": "UG",
+        "Name": "Uganda",
+        "Iso3": "UGA",
+        "NumCode": 800,
+        "PhoneCode": 256
+    },
+    {
+        "CountryID": "c3330dc5-3291-4397-9f99-f60bd00453d3",
+        "ISO": "UA",
+        "Name": "Ukraine",
+        "Iso3": "UKR",
+        "NumCode": 804,
+        "PhoneCode": 380
+    },
+    {
+        "CountryID": "cf66f554-1038-4d34-81be-f66c9783a39d",
+        "ISO": "AE",
+        "Name": "United Arab Emirates",
+        "Iso3": "ARE",
+        "NumCode": 784,
+        "PhoneCode": 971
+    },
+    {
+        "CountryID": "17bf11db-66a9-4097-8d88-f6a719b02116",
+        "ISO": "GB",
+        "Name": "United Kingdom",
+        "Iso3": "GBR",
+        "NumCode": 826,
+        "PhoneCode": 44
+    },
+    {
+        "CountryID": "d76be042-aa87-4f76-8c4e-f72a95cc8f11",
+        "ISO": "US",
+        "Name": "United States",
+        "Iso3": "USA",
+        "NumCode": 840,
+        "PhoneCode": 1
+    },
+    {
+        "CountryID": "f8e7c70b-0700-4940-b631-f998f47bfc58",
+        "ISO": "UM",
+        "Name": "United States Minor Outlying Islands",
+        "Iso3": null,
+        "NumCode": null,
+        "PhoneCode": 1
+    },
+    {
+        "CountryID": "6d52dd9d-56e9-4131-902c-fd8cc0f431e1",
+        "ISO": "UY",
+        "Name": "Uruguay",
+        "Iso3": "URY",
+        "NumCode": 858,
+        "PhoneCode": 598
+    },
+    {
+        "CountryID": "3b9464cf-aa0c-411a-9630-fe2c95b012cc",
+        "ISO": "UZ",
+        "Name": "Uzbekistan",
+        "Iso3": "UZB",
+        "NumCode": 860,
+        "PhoneCode": 998
+    },
+    {
+        "CountryID": "1f1cd9df-c81f-4cd1-95b4-fe4307218f3b",
+        "ISO": "VU",
+        "Name": "Vanuatu",
+        "Iso3": "VUT",
+        "NumCode": 548,
+        "PhoneCode": 678
+    },
+    {
+        "CountryID": "20d81aac-0d72-4d50-ba51-fe97d5806248",
+        "ISO": "VE",
+        "Name": "Venezuela",
+        "Iso3": "VEN",
+        "NumCode": 862,
+        "PhoneCode": 58
+    },
+    {
+        "CountryID": "8a8083ca-18ce-4101-a966-ff643898dbaa",
+        "ISO": "VN",
+        "Name": "Viet Nam",
+        "Iso3": "VNM",
+        "NumCode": 704,
+        "PhoneCode": 84
+    },
+    {
+        "CountryID": "022f6e8e-7918-4815-bd4f-96808f0c4fc1",
+        "ISO": "VG",
+        "Name": "Virgin Islands, British",
+        "Iso3": "VGB",
+        "NumCode": 92,
+        "PhoneCode": 1284
+    },
+    {
+        "CountryID": "0241fb4b-d6fd-4f42-ad01-c3cd01e615fb",
+        "ISO": "VI",
+        "Name": "Virgin Islands, U.s.",
+        "Iso3": "VIR",
+        "NumCode": 850,
+        "PhoneCode": 1340
+    },
+    {
+        "CountryID": "024ffaaa-529b-4910-b5a9-e9378c0527cd",
+        "ISO": "WF",
+        "Name": "Wallis and Futuna",
+        "Iso3": "WLF",
+        "NumCode": 876,
+        "PhoneCode": 681
+    },
+    {
+        "CountryID": "026ddd73-c56d-4a44-8668-30a8242c8caf",
+        "ISO": "EH",
+        "Name": "Western Sahara",
+        "Iso3": "ESH",
+        "NumCode": 732,
+        "PhoneCode": 212
+    },
+    {
+        "CountryID": "0304fcf0-8808-428e-be21-6eae5e64455b",
+        "ISO": "YE",
+        "Name": "Yemen",
+        "Iso3": "YEM",
+        "NumCode": 887,
+        "PhoneCode": 967
+    },
+    {
+        "CountryID": "03932a22-0734-46e4-a58f-810146c9db0d",
+        "ISO": "ZM",
+        "Name": "Zambia",
+        "Iso3": "ZMB",
+        "NumCode": 894,
+        "PhoneCode": 260
+    },
+    {
+        "CountryID": "03ec511d-8a30-4191-a0f6-0484afb342d7",
+        "ISO": "ZW",
+        "Name": "Zimbabwe",
+        "Iso3": "ZWE",
+        "NumCode": 716,
+        "PhoneCode": 263
+    },
+    {
+        "CountryID": "040f00c3-987f-4ed3-bb34-c57911de1ac7",
+        "ISO": "TE",
+        "Name": "TEST",
+        "Iso3": "TES",
+        "NumCode": null,
+        "PhoneCode": 0
+    }
+]

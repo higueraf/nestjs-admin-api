@@ -1,0 +1,52 @@
+[
+  {
+    "RoleID": "3b1f4468-8e14-4e88-a2d6-21340a260320",
+    "Name": "Root",
+    "CreatedBy": "511f5541-a566-4af3-bb7b-408da778bd42",
+    "CreatedAt": "2022-01-01T00:00:00.000Z",
+    "UpdatedBy": null,
+    "UpdatedAt": null,
+    "DeletedBy": null,
+    "DeletedAt": null
+  },
+  {
+    "RoleID": "7e57d004-2b97-4a2a-ab8e-eb0a7a58221f",
+    "Name": "Owner",
+    "CreatedBy": "511f5541-a566-4af3-bb7b-408da778bd42",
+    "CreatedAt": "2022-02-02T00:00:00.000Z",
+    "UpdatedBy": null,
+    "UpdatedAt": null,
+    "DeletedBy": null,
+    "DeletedAt": null
+  },
+  {
+    "RoleID": "5c31d7c3-f345-4b5f-8d44-1a10e2101722",
+    "Name": "Master",
+    "CreatedBy": "511f5541-a566-4af3-bb7b-408da778bd42",
+    "CreatedAt": "2022-03-03T00:00:00.000Z",
+    "UpdatedBy": null,
+    "UpdatedAt": null,
+    "DeletedBy": null,
+    "DeletedAt": null
+  },
+  {
+    "RoleID": "3f333df5-5d3b-42ee-879f-6b7e4a8f8d2e",
+    "Name": "Admin",
+    "CreatedBy": "511f5541-a566-4af3-bb7b-408da778bd42",
+    "CreatedAt": "2022-04-04T00:00:00.000Z",
+    "UpdatedBy": null,
+    "UpdatedAt": null,
+    "DeletedBy": null,
+    "DeletedAt": null
+  },
+  {
+    "RoleID": "1b72c938-3ff6-44a4-9ed2-167245c8e4d1",
+    "Name": "Guest",
+    "CreatedBy": "511f5541-a566-4af3-bb7b-408da778bd42",
+    "CreatedAt": "2022-05-05T00:00:00.000Z",
+    "UpdatedBy": null,
+    "UpdatedAt": null,
+    "DeletedBy": null,
+    "DeletedAt": null
+  }
+]

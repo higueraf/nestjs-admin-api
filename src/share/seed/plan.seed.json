@@ -1,0 +1,27 @@
+[
+    {
+        "PlanID": "81217f83-9565-4aa7-8908-14cfaef66e52",
+        "Name": "Trial Package",
+        "IsActive": true
+    },
+    {
+        "PlanID": "7c18ae65-a823-4196-b07e-2a9ac02c07cd",
+        "Name": "Basic Package",
+        "IsActive": true
+    },
+    {
+        "PlanID": "bb1f2333-d0f1-46b6-8e91-2c61ba41ae7c",
+        "Name": "Core Package",
+        "IsActive": true
+    },
+    {
+        "PlanID": "14e4d691-7546-45bc-99a6-3a7fa598c77e",
+        "Name": "Custom Package",
+        "IsActive": true
+    },
+    {
+        "PlanID": "db891a13-4bb8-49ea-905a-4647e69d02e2",
+        "Name": "Enterprise Package",
+        "IsActive": true
+    }
+]
